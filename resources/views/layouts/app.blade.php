@@ -38,7 +38,7 @@
 
         </div>
     </nav>
-
+        JarmoJ oli siin!
     @yield('content')
 
     <!-- JavaScripts -->
